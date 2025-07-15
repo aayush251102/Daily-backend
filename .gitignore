@@ -1,0 +1,27 @@
+# node modules
+node_modules/
+
+# dotenv files
+.env
+
+# logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# compiled files
+dist/
+build/
+
+# EJS cache (if any)
+*.ejs~
+
+# debug
+npm-debug.log*
